@@ -107,6 +107,15 @@ WanderLust/
 
 WanderLust demonstrates full-stack web development concepts, including server-side rendering, database integration, routing, user authentication, and CRUD operations.
 
+
+## 🎥 Project Demo
+
+Watch the WanderLust application demo:
+
+[▶️ **Watch the Full Demo on YouTube**](https://youtu.be/ESPKEdJnLAI)
+
+
+
 ## 👨‍💻 Author
 
 **Suman Raj**
